@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HBall88
+- 👋 Hi, I’m Elina
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
 - - elina.todorova2006@gmail.com
